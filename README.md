@@ -6,7 +6,7 @@
 * Eclipse recent (de préférence Oxygen) installé
 * Plugins Eclipse à installer : infinitest, natural (chercher "cucumber")
 * Si possible, utiliser votre connection Internet (data).
-* Si et seulement si vous passez par le proxy de l'université, configurer votre Eclipse (Window-> Preferences -> chercher 'proxy") et votre conf maven  `~/.m2/settings.xml` :
+* Si __et seulement si__ vous passez par le proxy de l'université, configurer votre Eclipse (Window-> Preferences -> chercher 'proxy") et votre conf maven  `~/.m2/settings.xml` :
 ```
 <settings>
   <proxies>
@@ -20,10 +20,12 @@
     </proxies>
 </settings>
 ```
-* Forker sur Github le projet `bflorat/tp1-miage` puis cloner votre dépôt Github dans votre workspace
+* Forker sur Github le projet `bflorat/tp1-miage` puis cloner votre dépôt Github (avec l'__url ssh__) dans votre workspace
 * Dans le `README.md` de votre projet, mentionner votre nom et celui de votre binome __(ne pas oublier !)__
 
 # Déroulement du TP
+si besoin , rappel sur les remotes git : trois dépots utilisés : le dépot Github upstream, le dépot Github personnel, le dépot local.
+
 Nous fournissons trois projets Eclipse servant de base de travail aux exercices suivant. Cela permet un point de synchronisation de tous les étudiants à différents moments du TP. 
 * Le projet ex1-ini est le code initial du TP et sert de base aux exercices 1 et 2. Une fois terminés, faire un push vers Github et fermer le projet Eclipse (ne pas le supprimer).
 * Le projet ex3-ini sert de code de base aux exercices 3 et 4. Une fois terminés, faire un push vers Github et fermer le projet Eclipse (ne pas le supprimer).
