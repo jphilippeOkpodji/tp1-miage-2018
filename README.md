@@ -9,7 +9,7 @@
 * Dans le `README.md` de votre projet, mentionner votre nom et celui de votre binome __(ne pas oublier !)__
 
 # Déroulement du TP
-si besoin , rappel sur les remotes git : trois dépots utilisés : le dépot Github upstream, le dépot Github personnel, le dépot local.
+_<Rappel sur les remotes git : trois dépots utilisés : le dépot Github upstream, le dépot Github personnel, le dépot local>_
 
 Nous fournissons trois projets Eclipse servant de base de travail aux exercices suivant. Cela permet un point de synchronisation de tous les étudiants à différents moments du TP. 
 * Le projet ex1-ini est le code initial du TP et sert de base aux exercices 1 et 2. Une fois terminés, faire un push vers Github et fermer le projet Eclipse (ne pas le supprimer).
