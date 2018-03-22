@@ -85,8 +85,6 @@ Observer la méthode `ClientMail.main()` : elle charge la configuration et cré�
 
 3) Faire de même pour l'injection du `MailSender` dans le `MailService`.
 
-Noter l'arbre d'injection que forme les objets injectés depuis  `InterpreteurLigneCommande`.
-
 # Exercice 4 - TU
 _Temps estimé : 30 mins_
 
