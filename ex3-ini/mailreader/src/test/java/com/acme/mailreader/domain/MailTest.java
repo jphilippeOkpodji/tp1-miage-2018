@@ -10,7 +10,7 @@ public class MailTest {
 
 	@Ignore
 	@Test(expected=DateIncorrecteException.class)
-	public final void erreurSiDateAvant1979() throws DateIncorrecteException {
+	public final void erreurSiDateAvant1970() throws DateIncorrecteException {
 		//TODO
 				
 	}
