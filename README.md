@@ -94,7 +94,7 @@ Pour les besoins du TP, nous utilisons ici les notions de Scenario Outline, de D
 1) Compléter la classe `MailComparaisonStep`
 2) Lancer le test `CucumberRunnerTest` en junit
 3) Ouvrir dans un navigateur `target/cucumber/index.html`
-4) Ajouter des cas de test dans la feature `trier_mail.feature` : faut-il ecrire de nouvelles méthodes de test comme en tests unitaires ?
+4) Ajouter des cas de test dans la feature `trier_mail.feature`. Notez qu'aucun nouveau code n'a été nécessaire pour ajouter ces tests contrairement à un TU.
 
 5) optionnel :
 Ecrire un scenario simple au format textuel et les steps correspondants.
