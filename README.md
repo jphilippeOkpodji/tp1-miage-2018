@@ -4,7 +4,7 @@
 * JDK 8 ou 9
 * Eclipse recent (de préférence Oxygen) installé
 * Plugins Eclipse à installer : infinitest, natural (chercher "cucumber")
-* Utiliser votre connection Internet (data), pas le wifi de l'université (il faut alors configurer le proxy).
+* Utiliser votre connection Internet (data), pas le wifi de l'université (pour lequel il faut configurer le proxy HTTP).
 * Forker sur Github le projet `bflorat/tp1-miage` puis cloner votre dépôt Github (avec l'__url ssh__) dans votre workspace. Attention : __un seul fork par binôme__.
 * Dans le `README.md` de votre projet, mentionner votre nom et celui de votre binome __(ne pas oublier !)__
 
