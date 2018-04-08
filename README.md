@@ -1,5 +1,7 @@
 # Nom des étudiants de ce binôme 
-(les DEUX noms) : ________________________
+(les DEUX noms) : XXXXX et XXXXXX
+
+Commentaires éventuels des étudiants : XXXXXX
 
 # Pré-requis 
 * Disposer d'au moins un compte github par binome
