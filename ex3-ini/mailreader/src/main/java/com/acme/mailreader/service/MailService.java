@@ -4,9 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.acme.mailreader.domain.Mail;
-import com.acme.mailreader.utils.MailInvalideException;
-import com.acme.mailreader.utils.MailInvalideException.ErreurMail;
-import com.acme.mailreader.utils.MailSender;
+import com.acme.mailreader.presentation.MailInvalideException;
+import com.acme.mailreader.presentation.MailInvalideException.ErreurMail;
 
 public class MailService {
 	

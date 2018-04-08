@@ -10,7 +10,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import com.acme.mailreader.domain.Mail.Statut;
-import com.acme.mailreader.utils.DateIncorrecteException;
 
 public class MailTest {
 	

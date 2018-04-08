@@ -3,7 +3,7 @@ package com.acme.mailreader.infrastructure;
 import java.util.logging.Logger;
 
 import com.acme.mailreader.domain.Mail;
-import com.acme.mailreader.utils.MailSender;
+import com.acme.mailreader.service.MailSender;
 
 /**
  * Implementation de production du mail sender
