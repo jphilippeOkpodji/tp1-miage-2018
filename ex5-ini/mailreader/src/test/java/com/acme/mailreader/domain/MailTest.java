@@ -4,8 +4,6 @@ import java.time.Instant;
 
 import org.junit.Test;
 
-import com.acme.mailreader.utils.DateIncorrecteException;
-
 public class MailTest {
 	
 

@@ -4,10 +4,10 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
+import com.acme.mailreader.domain.DateIncorrecteException;
 import com.acme.mailreader.domain.Mail;
 import com.acme.mailreader.domain.Mail.Statut;
 import com.acme.mailreader.domain.MailComparator;
-import com.acme.mailreader.utils.DateIncorrecteException;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

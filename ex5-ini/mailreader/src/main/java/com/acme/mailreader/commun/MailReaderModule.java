@@ -2,7 +2,7 @@ package com.acme.mailreader.commun;
 
 import com.acme.mailreader.infrastructure.InMemoryMailSender;
 import com.acme.mailreader.infrastructure.SmtpMailSender;
-import com.acme.mailreader.utils.MailSender;
+import com.acme.mailreader.service.MailSender;
 import com.google.inject.AbstractModule;
 
 /**
