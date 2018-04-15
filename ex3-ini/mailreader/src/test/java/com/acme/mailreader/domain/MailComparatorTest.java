@@ -6,6 +6,9 @@ import static org.junit.Assert.assertThat;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.acme.mailreader.domain.Mail;
+import com.acme.mailreader.domain.MailComparator;
+
 public class MailComparatorTest {
 	
 	private MailComparator comparator;
