@@ -1,3 +1,8 @@
+# Nom des étudiants de ce binôme 
+(les DEUX noms) : XXXXX et XXXXXX
+
+Commentaires éventuels des étudiants : XXXXXX
+
 # Pré-requis 
 * Disposer d'au moins un compte github par binome
 * Apporter son portable (les postes de l'université n'ont pas accès au proxy depuis Eclipse). Pas de préférence pour l'OS (Linux, OSX ou Windows).
@@ -91,10 +96,9 @@ Pour les besoins du TP, nous utilisons ici les notions de Scenario Outline, de D
 1) Compléter la classe `MailComparaisonStep`
 2) Lancer le test `CucumberRunnerTest` en junit
 3) Ouvrir dans un navigateur `target/cucumber/index.html`
-4) Ajouter des cas de test dans la feature `trier_mail.feature` : faut-il ecrire de nouvelles méthodes de test comme en tests unitaires ?
+4) Ajouter des cas de test dans la feature `trier_mail.feature`. Notez qu'aucun nouveau code n'a été nécessaire pour ajouter ces tests contrairement à un TU.
 
-5) optionnel :
-Ecrire un scenario simple au format textuel et les steps correspondants.
+5) Ecrire un scenario simple au format textuel et les steps correspondants.
 
 # Cleanup
 Si vous le désirez, vous pourrez supprimer votre projet github mais pas avant fin juin (noté)
