@@ -103,3 +103,5 @@ Pour les besoins du TP, nous utilisons ici les notions de Scenario Outline, de D
 # Cleanup
 Si vous le désirez, vous pourrez supprimer votre projet github mais pas avant fin juin (noté)
 
+# Jean Philippe
+
