@@ -38,3 +38,9 @@ Then la liste ordonnée doit être :
 | false      | PAS_ENVOYE 		 | aaaaa					| 2017-01-01T14:03:00Z |
 
 
+
+Scenario: Le mail1 n'est pas null, le mail2 est null 
+Given un premier mail avec le sujet "Good" 
+Given un deuxième mail est null
+When je trie
+Then le resultat est "EGAUX"
