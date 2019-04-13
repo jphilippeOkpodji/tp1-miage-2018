@@ -17,14 +17,9 @@ L'objet InterpreteurLigneCommande a besoin qu'on lui injecte un objet MailServic
 
 InterpreteurLigneCommande ---> MailService ---> MailSender
 
-# Exercice 4 - TU
-_Temps estimé : 30 mins_
+# Exercice 4 - Fait 
 
-1) Compléter les tests unitaires ou en écrire de nouveaux dans les test cases `MailTest` et `MailComparatorTest`. Enlever les annotations `@Ignore` s'il y en a.
-
-2) Exécuter vos tests si besoin (automatique si vous pratiquez le test continu avec infinitest).
-
-# Exercice 5 - BDD avec Cucumber-jvm
+# Exercice 5 - BDD avec Cucumber-jvm (fait en intégrité )
 _Temps estimé : 40 mins_
 
 Point de synchro : repartir du projet fourni `mailreader-ex5-ini`
